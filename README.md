@@ -16,5 +16,9 @@ hii jenna
 2. nfdskdnfk
 3. lmdmv
 
+<<<<<<< Updated upstream
 
 mkmkzkm
+=======
+mziji
+>>>>>>> Stashed changes
